@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sc</groupId>
-	<artifactId>clilent</artifactId>
+	<artifactId>client</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
